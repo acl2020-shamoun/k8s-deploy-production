@@ -5,7 +5,7 @@ metadata:
   name: front-end-v1
   namespace: production
 spec:
-  replicas: 1
+  replicas: 2
   template:
     metadata:
       labels:
